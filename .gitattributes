@@ -1,0 +1,6 @@
+# Font binary files — LFS 없이 직접 커밋
+*.woff2 binary
+*.woff binary
+*.ttf binary
+*.otf binary
+*.eot binary
