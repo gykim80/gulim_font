@@ -1,0 +1,25 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Brygada%201918:wght@400;500;600;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/brygada1918/v27/pe0pMI6eKpdGqlF5LANrM--qBP5v.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/brygada1918/v27/pe0pMI6eKpdGqlF5LANrM--qCv5vS1U.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/brygada1918/v27/pe0pMI6eKpdGqlF5LANrM--qCf5vS1U.woff2",
+      "weight": "600",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/brygada1918/v27/pe0pMI6eKpdGqlF5LANrM--qAP5vS1U.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Nunito%20Sans:wght@200;300;400;500;600;700;800;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-s.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t7R-tCKQ.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tCKQ.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7txR-tCKQ.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t6R-tCKQ.woff2",
+      "weight": "600",
+      "format": "woff2"
+    }
+  ]
+}

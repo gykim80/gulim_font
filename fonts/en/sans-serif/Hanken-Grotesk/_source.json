@@ -1,0 +1,25 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Hanken%20Grotesk:wght@100;200;300;400;500;600;700;800;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59A.woff2",
+      "weight": "100",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpT59CjCQ.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpQ59CjCQ.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpS59CjCQ.woff2",
+      "weight": "400",
+      "format": "woff2"
+    }
+  ]
+}

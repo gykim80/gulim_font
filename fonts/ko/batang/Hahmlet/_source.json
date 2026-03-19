@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Hahmlet:wght@100;200;300;400;500;600;700;800;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/hahmlet/v21/BngIUXpCQ3nKpIo0Z__ajQ.woff2",
+      "weight": "100",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/hahmlet/v21/BngIUXpCQ3nKpIo0Z_Hajc_L.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/hahmlet/v21/BngIUXpCQ3nKpIo0Z_Dajc_L.woff2",
+      "weight": "300",
+      "format": "woff2"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/inconsolata/v37/QlddNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLyya15.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inconsolata/v37/QlddNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLyx615Mjs.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inconsolata/v37/QlddNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLyxq15Mjs.woff2",
+      "weight": "400",
+      "format": "woff2"
+    }
+  ]
+}

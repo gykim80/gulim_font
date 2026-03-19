@@ -1,0 +1,50 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Be%20Vietnam%20Pro:wght@100;200;300;400;500;600;700;800;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HRUNXgSYA.woff2",
+      "weight": "100",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HT4JG81Rb0.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HScJ281Rb0.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVPSTAyLFyeg_IDWvOJmVES_Hw3BXo.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HTEJm81Rb0.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HToIW81Rb0.woff2",
+      "weight": "600",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSMIG81Rb0.woff2",
+      "weight": "700",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSQI281Rb0.woff2",
+      "weight": "800",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HS0Im81Rb0.woff2",
+      "weight": "900",
+      "format": "woff2"
+    }
+  ]
+}

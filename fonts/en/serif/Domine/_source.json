@@ -1,0 +1,15 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Domine:wght@400;500;600;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/domine/v25/L0x8DFMnlVwD4h3hu_qn.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/domine/v25/L0x8DFMnlVwD4h3htfqndSk.woff2",
+      "weight": "500",
+      "format": "woff2"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Old%20Standard%20TT:wght@400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVeqlq4.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tS1Zf.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

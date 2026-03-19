@@ -1,0 +1,30 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u8w4BMUTPHh30AXC-q.woff2",
+      "weight": "100",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh7USSwiPGQ.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHjx4wXg.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVSwiPGQ.woff2",
+      "weight": "700",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh50XSwiPGQ.woff2",
+      "weight": "900",
+      "format": "woff2"
+    }
+  ]
+}

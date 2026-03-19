@@ -1,0 +1,40 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Literata:wght@200;300;400;500;600;700;800;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlbJ5W.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlYp5W_C0.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlYZ5W_C0.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlaJ5W_C0.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlYJ5W_C0.woff2",
+      "weight": "600",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlb55W_C0.woff2",
+      "weight": "700",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlY55W_C0.woff2",
+      "weight": "800",
+      "format": "woff2"
+    }
+  ]
+}

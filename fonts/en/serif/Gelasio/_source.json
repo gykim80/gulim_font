@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Gelasio:wght@400;500;600;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/gelasio/v14/cIf9MaFfvUQxTTqS9C6hYQ.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gelasio/v14/cIf9MaFfvUQxTTqS9CChYVkH.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gelasio/v14/cIf9MaFfvUQxTTqS9CGhYVkH.woff2",
+      "weight": "600",
+      "format": "woff2"
+    }
+  ]
+}

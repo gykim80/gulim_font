@@ -1,0 +1,15 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=DM%20Sans:wght@100;200;300;400;500;600;700;800;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+      "weight": "100",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2",
+      "weight": "200",
+      "format": "woff2"
+    }
+  ]
+}

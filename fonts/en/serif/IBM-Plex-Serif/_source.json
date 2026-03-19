@@ -1,0 +1,40 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=IBM%20Plex%20Serif:wght@100;200;300;400;500;600;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/ibmplexserif/v20/jizBREVNn1dOx-zrZ2X3pZvkTi186zUTjg.woff2",
+      "weight": "100",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI0q1s.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI0q1s.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ibmplexserif/v20/jizDREVNn1dOx-zrZ2X3pZvkTiUf2zc.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI0q1s.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI0q1s.woff2",
+      "weight": "600",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI0q1s.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

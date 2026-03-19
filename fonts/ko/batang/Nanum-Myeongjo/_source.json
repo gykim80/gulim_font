@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Btx3DZF0dXLMZlywRbVRNhxy2LscnU.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_E.woff2",
+      "weight": "700",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_E.woff2",
+      "weight": "800",
+      "format": "woff2"
+    }
+  ]
+}

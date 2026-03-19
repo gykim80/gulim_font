@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Josefin%20Sans:wght@100;200;300;400;500;600;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/josefinsans/v34/Qw3aZQNVED7rKGKxtqIqX5EUDXx4.woff2",
+      "weight": "100",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/josefinsans/v34/Qw3aZQNVED7rKGKxtqIqX5EUA3x4RHw.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/josefinsans/v34/Qw3aZQNVED7rKGKxtqIqX5EUAnx4RHw.woff2",
+      "weight": "300",
+      "format": "woff2"
+    }
+  ]
+}

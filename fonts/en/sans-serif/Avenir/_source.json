@@ -1,0 +1,15 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Avenir:wght@400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/l/font?kit=ijwUs5PnXdA4ZZUA55d-&skey=8887f17a62203d44&v=v13",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/l/font?kit=ijwXs5PnXdA4ZZUIXLJrtkNE&skey=fbb3d175e6a898d2&v=v13",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

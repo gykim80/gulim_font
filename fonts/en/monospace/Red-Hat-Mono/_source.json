@@ -1,0 +1,15 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Red%20Hat%20Mono:wght@300;400;500;600;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/redhatmono/v16/jVyN7nDnA2uf2zVvFAhhzEsUWOxS.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/redhatmono/v16/jVyN7nDnA2uf2zVvFAhhzEsUVuxSzgw.woff2",
+      "weight": "400",
+      "format": "woff2"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Playfair%20Display%20SC:wght@400;700;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/playfairdisplaysc/v18/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbkMEA.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/playfairdisplaysc/v18/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcwXLg.woff2",
+      "weight": "700",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/playfairdisplaysc/v18/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcwXLg.woff2",
+      "weight": "900",
+      "format": "woff2"
+    }
+  ]
+}

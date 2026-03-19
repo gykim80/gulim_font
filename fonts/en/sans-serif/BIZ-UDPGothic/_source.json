@@ -1,0 +1,15 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=BIZ%20UDPGothic:wght@400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/bizudpgothic/v16/hES36X5pHAIBjmS84VL0Bue87nIGQA.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bizudpgothic/v16/hESq6X5pHAIBjmS84VL0Bue85skjVWYtTQ.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/kanit/v17/nKKX-Go6G5tXcr72KwKAcA.woff2",
+      "weight": "100",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5aOhWnVaE.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4-ORWnVaE.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/kanit/v17/nKKZ-Go6G5tXcraVGwA.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5mOBWnVaE.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5KPxWnVaE.woff2",
+      "weight": "600",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4uPhWnVaE.woff2",
+      "weight": "700",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4yPRWnVaE.woff2",
+      "weight": "800",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4WPBWnVaE.woff2",
+      "weight": "900",
+      "format": "woff2"
+    }
+  ]
+}

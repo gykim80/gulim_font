@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCJW8zaGW5.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/oxygen/v16/2sDfZG1Wl4LcnbuKjk0m.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCNWgzaGW5.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

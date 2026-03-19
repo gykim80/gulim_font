@@ -1,0 +1,30 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Exo%202:wght@100;200;300;400;500;600;700;800;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4.woff2",
+      "weight": "100",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4E4Q.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYlK-4E4Q.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYsK-4E4Q.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYnK-4E4Q.woff2",
+      "weight": "500",
+      "format": "woff2"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Prompt:wght@100;200;300;400;500;600;700;800;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/prompt/v12/-W_9XJnvUD7dzB2CA-ofTkY.woff2",
+      "weight": "100",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/prompt/v12/-W_8XJnvUD7dzB2Cr_sIaWMu.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/prompt/v12/-W_8XJnvUD7dzB2Cy_gIaWMu.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/prompt/v12/-W__XJnvUD7dzB2KYNod.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/prompt/v12/-W_8XJnvUD7dzB2Ck_kIaWMu.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/prompt/v12/-W_8XJnvUD7dzB2Cv_4IaWMu.woff2",
+      "weight": "600",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/prompt/v12/-W_8XJnvUD7dzB2C2_8IaWMu.woff2",
+      "weight": "700",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/prompt/v12/-W_8XJnvUD7dzB2Cx_wIaWMu.woff2",
+      "weight": "800",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/prompt/v12/-W_8XJnvUD7dzB2C4_0IaWMu.woff2",
+      "weight": "900",
+      "format": "woff2"
+    }
+  ]
+}

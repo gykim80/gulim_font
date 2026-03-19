@@ -1,0 +1,50 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Gothic%20A1:wght@100;200;300;400;500;600;700;800;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/gothica1/v18/CSR74z5ZnPydRjlCCwlCCPctaNY.woff2",
+      "weight": "100",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlCpOY6T_N7.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlCwOU6T_N7.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gothica1/v18/CSR94z5ZnPydRjlCCwlKa8cv.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlCmOQ6T_N7.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlCtOM6T_N7.woff2",
+      "weight": "600",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlC0OI6T_N7.woff2",
+      "weight": "700",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlCzOE6T_N7.woff2",
+      "weight": "800",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlC6OA6T_N7.woff2",
+      "weight": "900",
+      "format": "woff2"
+    }
+  ]
+}

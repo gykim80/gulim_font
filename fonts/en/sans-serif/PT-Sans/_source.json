@@ -1,0 +1,15 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=PT%20Sans:wght@400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/ptsans/v18/jizaRExUiTo99u79D0KExQ.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ptsans/v18/jizfRExUiTo99u79B_mh0O6tLQ.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

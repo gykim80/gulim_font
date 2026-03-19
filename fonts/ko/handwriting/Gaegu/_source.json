@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Gaegu:wght@300;400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU57nicw86MY.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gaegu/v23/TuGfUVB6Up9NU5ZMq9k.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU573jsw86MY.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

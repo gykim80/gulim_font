@@ -1,0 +1,15 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Cousine:wght@400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/cousine/v29/d6lIkaiiRdih4SpP_SQvzA.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/cousine/v29/d6lNkaiiRdih4SpP9Z8K2TnM0g.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

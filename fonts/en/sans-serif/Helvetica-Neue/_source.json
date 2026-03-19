@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Helvetica%20Neue:wght@300;400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/l/font?kit=jAncgHBgCsv4eNLTaMECf8DQsNwQWQWTXm0&skey=94b5a6be98cdd9eb&v=v17",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/l/font?kit=jAnfgHBgCsv4eNLTaMECf8DQsNS7exA&skey=4ad46dd97873f7d7&v=v17",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/l/font?kit=jAncgHBgCsv4eNLTaMECf8DQsNwAXgWTXm0&skey=ba59c4fdb0ab3b35&v=v17",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

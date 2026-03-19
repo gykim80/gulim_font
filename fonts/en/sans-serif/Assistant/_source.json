@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400;500;600;700;800&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/assistant/v24/2sDcZGJYnIjSi6H75xkzaGW5.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/assistant/v24/2sDcZGJYnIjSi6H75xkzZmW5O7w.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/assistant/v24/2sDcZGJYnIjSi6H75xkzamW5O7w.woff2",
+      "weight": "400",
+      "format": "woff2"
+    }
+  ]
+}

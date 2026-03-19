@@ -1,0 +1,30 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Cormorant:wght@300;400;500;600;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/cormorant/v24/H4clBXOCl9bbnla_nHIq75u9.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/cormorant/v24/H4clBXOCl9bbnla_nHIq4Zu9uqc.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/cormorant/v24/H4clBXOCl9bbnla_nHIq4pu9uqc.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/cormorant/v24/H4clBXOCl9bbnla_nHIq65u9uqc.woff2",
+      "weight": "600",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/cormorant/v24/H4clBXOCl9bbnla_nHIq4Ju9uqc.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

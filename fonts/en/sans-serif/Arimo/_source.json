@@ -1,0 +1,25 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Arimo:wght@400;500;600;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/arimo/v35/P5sMzZCDf9_T_10ZxCE.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/arimo/v35/P5sMzZCDf9_T_10XxCF8jA.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/arimo/v35/P5sMzZCDf9_T_10UxCF8jA.woff2",
+      "weight": "600",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/arimo/v35/P5sMzZCDf9_T_10dxCF8jA.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

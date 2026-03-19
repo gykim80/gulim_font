@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/dongle/v16/sJoG3Ltdjt6VPkqeEcxbZT-M.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dongle/v16/sJoF3Ltdjt6VPkqWuu5O.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dongle/v16/sJoG3Ltdjt6VPkqeActbZT-M.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

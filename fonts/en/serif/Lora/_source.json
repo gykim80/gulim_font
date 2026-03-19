@@ -1,0 +1,25 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwr7Iw.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwT7I-NP.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwf7I-NP.woff2",
+      "weight": "600",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMw77I-NP.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

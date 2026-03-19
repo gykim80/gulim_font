@@ -1,0 +1,25 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Readex%20Pro:wght@200;300;400;500;600;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/readexpro/v27/SLXYc1bJ7HE5YDoGPuzj_dh8uc7wUy8ZQQyX2IwwZEw.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/readexpro/v27/SLXYc1bJ7HE5YDoGPuzj_dh8uc7wUy8ZQQyX2Iw-ZEzMhQ.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/readexpro/v27/SLXYc1bJ7HE5YDoGPuzj_dh8uc7wUy8ZQQyX2Iw1ZEzMhQ.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/readexpro/v27/SLXYc1bJ7HE5YDoGPuzj_dh8uc7wUy8ZQQyX2Iw_ZEzMhQ.woff2",
+      "weight": "500",
+      "format": "woff2"
+    }
+  ]
+}

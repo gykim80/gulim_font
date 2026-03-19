@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Passion%20One:wght@400;700;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/passionone/v20/PbynFmL8HhTPqbjUzux3JEuR9ls.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMq007vyJc.woff2",
+      "weight": "700",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMS0U7vyJc.woff2",
+      "weight": "900",
+      "format": "woff2"
+    }
+  ]
+}

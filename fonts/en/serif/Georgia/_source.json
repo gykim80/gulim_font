@@ -1,0 +1,15 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Georgia:wght@400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/l/font?kit=-zkl91Ksy8U47Wnsfmm8wQ&skey=ca45512e77838097&v=v18",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/l/font?kit=-zkg91Ksy8U47WnsdtKZ1Gb3pA&skey=bbb745e2fcd7331c&v=v18",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}
