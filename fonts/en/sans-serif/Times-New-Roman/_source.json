@@ -1,0 +1,15 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Times%20New%20Roman:wght@400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/l/font?kit=3JnlSDvn1nCgiRnceUeBGxJoN45T18t2&skey=f889a07745b51249&v=v18",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/l/font?kit=3JngSDvn1nCgiRnceUeBGxJoN45bbO5jN1Ve&skey=107a32db89f1285b&v=v18",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

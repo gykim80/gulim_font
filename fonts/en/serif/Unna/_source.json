@@ -1,0 +1,15 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Unna:wght@400;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/unna/v25/AYCEpXzofN0NOp8LlQ.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/unna/v25/AYCLpXzofN0NMiQugG7jRQ.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}

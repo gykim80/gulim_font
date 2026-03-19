@@ -1,0 +1,35 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Source%20Serif%20Pro:wght@200;300;400;600;700;900&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/sourceserifpro/v18/neIXzD-0qpwxpaWvjeD0X88SAOeasbsftSyqxA.woff2",
+      "weight": "200",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourceserifpro/v18/neIXzD-0qpwxpaWvjeD0X88SAOeasd8ctSyqxA.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourceserifpro/v18/neIQzD-0qpwxpaWvjeD0X88SAOeauXQ-oA.woff2",
+      "weight": "400",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourceserifpro/v18/neIXzD-0qpwxpaWvjeD0X88SAOeasasatSyqxA.woff2",
+      "weight": "600",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourceserifpro/v18/neIXzD-0qpwxpaWvjeD0X88SAOeasc8btSyqxA.woff2",
+      "weight": "700",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourceserifpro/v18/neIXzD-0qpwxpaWvjeD0X88SAOeasfcZtSyqxA.woff2",
+      "weight": "900",
+      "format": "woff2"
+    }
+  ]
+}

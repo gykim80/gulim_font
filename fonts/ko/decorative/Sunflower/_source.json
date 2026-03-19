@@ -1,0 +1,20 @@
+{
+  "css_url": "https://fonts.googleapis.com/css2?family=Sunflower:wght@300;500;700&display=swap",
+  "extracted": [
+    {
+      "url": "https://fonts.gstatic.com/s/sunflower/v18/RWmPoKeF8fUjqIj7Vc-06MfirOMQBm8AZSXxSxgIpkk0e8w0Fyad.2.woff2",
+      "weight": "300",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sunflower/v18/RWmPoKeF8fUjqIj7Vc-0sMbirOMQBm8AZSXxSxgIpkk0e8w0Fyad.2.woff2",
+      "weight": "500",
+      "format": "woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sunflower/v18/RWmPoKeF8fUjqIj7Vc-0-MDirOMQBm8AZSXxSxgIpkk0e8w0Fyad.2.woff2",
+      "weight": "700",
+      "format": "woff2"
+    }
+  ]
+}
